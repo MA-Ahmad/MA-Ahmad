@@ -6,15 +6,6 @@
 <a href="https://www.linkedin.com/in/muhammad-ahmad20/">
   <img align="left" alt="Muhammad Ahmad LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/alex_maxinova">
-  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://t.me/alex_maxinova">
-  <img align="left" alt="Alex' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.alex-portfolio.org/">
-  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />
-</a>
 <br />
 <br />
 
