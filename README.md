@@ -1,5 +1,3 @@
-### Hey 👋, I'm Ahmad
-
 <a href="https://github.com/MA-Ahmad">
   <img align="left" alt="Muhammad Ahmad | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -20,8 +18,6 @@ Hi, I'm Muhammad Ahmad, a Full Stack Developer 🚀. I'm a creative problem solv
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on React-Rails Blog App.
@@ -30,6 +26,10 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: muhammad.ahmad8043@gmail.com
+
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
 
 ##
 
