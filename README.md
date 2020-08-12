@@ -20,9 +20,7 @@ Hi, I'm Muhammad Ahmad, a Full Stack Developer 🚀. I'm a creative problem solv
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 ##
 
-<div align="right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
-</div>
 
 **Talking about Personal Stuffs:**
 
