@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Ahmad!]
+### Hey 👋, I'm Ahmad
 
 <a href="https://github.com/MA-Ahmad">
   <img align="left" alt="Muhammad Ahmad | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -6,6 +6,13 @@
 <a href="https://www.linkedin.com/in/muhammad-ahmad20/">
   <img align="left" alt="Muhammad Ahmad LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.quora.com/profile/Muhammad-Ahmad-66">
+  <img align="left" alt="Ahmad' Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+</a>
+<a href="https://sourcerer.io/ma-ahmad">
+  <img alt="Ahmad | Sourcerer" width="22px" align="left" src="https://sourcerer.io/icons/logo-sharing.svg" >
+</a>
+</div>
 <br />
 <br />
 
@@ -22,6 +29,8 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: muhammad.ahmad8043@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)]
 
 ##
 
