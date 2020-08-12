@@ -30,7 +30,9 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: muhammad.ahmad8043@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)]
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
 
 ##
 
