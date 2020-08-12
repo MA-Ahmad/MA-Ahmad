@@ -19,7 +19,10 @@
 Hi, I'm Muhammad Ahmad, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 ##
-<img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" />
+
+<div align="right">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
+</div>
 
 **Talking about Personal Stuffs:**
 
@@ -29,10 +32,6 @@ Passionate about ideating, conceptualizing and producing consumer-centric as wel
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: muhammad.ahmad8043@gmail.com
-
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
 
 ##
 
