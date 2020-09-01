@@ -21,14 +21,16 @@ Open for exploring exciting full-stack development opportunities in startups as 
 ##
 
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on React-Rails Blog App.
+- 💻 Software Engineer at Phaedra Solutions — *August 2019 to Present*
+- 🎓 BS(CS) from FAST - NUCES
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on DevPost
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: Anything is possible
 - 📫 How to reach me: muhammad.ahmad8043@gmail.com
-
+<!--
+- 👨🏽‍💻 I’m currently working on React and Rails.
+- 👯 I’m looking to collaborate on DevPost
+- ⚡️ Fun-Fact: Anything is possible
+-->
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
