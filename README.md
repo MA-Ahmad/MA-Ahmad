@@ -23,14 +23,16 @@ Open for exploring exciting full-stack development opportunities in startups as 
 **Talking about Personal Stuffs:**
 - 💻 Software Engineer at Phaedra Solutions — *August 2019 to Present*
 - 🎓 BS(CS) from FAST - NUCES
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Redux
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: muhammad.ahmad8043@gmail.com
+
 <!--
 - 👨🏽‍💻 I’m currently working on React and Rails.
 - 👯 I’m looking to collaborate on DevPost
 - ⚡️ Fun-Fact: Anything is possible
 -->
+
 ##
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ma-ahmad)](https://github.com/ryo-ma/github-profile-trophy) -->
