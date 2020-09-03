@@ -15,7 +15,8 @@
 <br />
 <br />
 
-Hi, I'm Muhammad Ahmad, a Full Stack Developer 🚀. I'm a creative problem solving enthusiast, with a constantly growing love for languages.
+Hi, I'm Muhammad Ahmad, a Full Stack Developer 🚀
+I'm a creative problem solving enthusiast, with a constantly growing love for languages.
 Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.
 
 ##
