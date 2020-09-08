@@ -29,7 +29,6 @@ Open for exploring exciting full-stack development opportunities in startups as 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: muhammad.ahmad8043@gmail.com
 
-
 <!--
 - 👨🏽‍💻 I’m currently working on React and Rails.
 - 👯 I’m looking to collaborate on DevPost
@@ -58,4 +57,3 @@ Open for exploring exciting full-stack development opportunities in startups as 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
