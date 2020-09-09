@@ -11,7 +11,6 @@
   <img alt="Ahmad | Sourcerer" width="22px" align="left" src="https://sourcerer.io/icons/logo-sharing.svg" >
 </a>
 
-</div>
 <br />
 <br />
 
