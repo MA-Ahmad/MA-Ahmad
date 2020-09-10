@@ -35,9 +35,7 @@ Open for exploring exciting full-stack development opportunities in startups as 
 -->
 
 ##
-
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ma-ahmad)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ma-ahmad&show_icons=true&layout=compact&theme=vue)
 
 ##
