@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 BS(CS) from FAST - NUCES
+- 🎓 &nbsp; BS(CS) from FAST - NUCES
 - 💼 &nbsp; Working as a Software Engineer at Phaedra Solutions.
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
-- 📫 How to reach me: muhammad.ahmad8043@gmail.com
+- 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
 
 <h3>🛠 Tech Stack</h3>
 
