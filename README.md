@@ -1,8 +1,5 @@
 <h2> Hey there! I'm Ahmad.</h2>
 
-[![](https://komarev.com/ghpvc/?username=MA-Ahmad&color=blue&label=Profile%20Views)](https://github.com/MA-Ahmad/MA-Ahmad)
-[![](https://img.shields.io/github/followers/MA-Ahmad?label=GitHub%20Followers)](https://github.com/MA-Ahmad)
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -21,6 +18,9 @@
 <br/>
 
 [![MA-Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MA-Ahmad&show_icons=true)](https://github.com/MA-Ahmad)
+
+[![](https://komarev.com/ghpvc/?username=MA-Ahmad&color=blue&label=Profile%20Views)](https://github.com/MA-Ahmad/MA-Ahmad)
+[![](https://img.shields.io/github/followers/MA-Ahmad?label=GitHub%20Followers)](https://github.com/MA-Ahmad)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
