@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Ruby | Python | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Redux | ROR
+- 🌐 &nbsp; ROR | JavaScript | TypeScript | ReactJS | Redux | Bootstrap | HTML | CSS 
 - 🛢 &nbsp; MySQL | Postgresql
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
