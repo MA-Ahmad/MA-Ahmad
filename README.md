@@ -25,12 +25,13 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<p align="center">
+<a href="https://dev.to/m_ahmad"><img alt="Stackoverflow" src="https://img.shields.io/badge/Dev.to-Ahmad-blue?style=flat-square&logo=dev-to"></a>
+<a href="https://stackoverflow.com/users/12132894/ahmad"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-Ahmad-blue?style=flat-square&logo=stackoverflow"></a>
 <a href="https://www.linkedin.com/in/muhammad-ahmad20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:muhammad.ahmad8043@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muhammad.ahmad8043@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-</p>
 
+<!-- <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="willdoescode" height="30" width="40" /></a> -->
 
 <!-- Old README -->
 
