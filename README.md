@@ -5,6 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; BS(CS) from FAST - NUCES
 - 💼 &nbsp; Working as a Software Engineer at Phaedra Solutions.
+- 👨‍💻 All of my projects are available at https://mahmad.me
+- 📝 I regularly write articles on [Dev.to](https://dev.to/m_ahmad)
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
 - 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
 
