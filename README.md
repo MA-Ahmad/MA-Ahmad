@@ -25,9 +25,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://dev.to/m_ahmad"><img alt="Stackoverflow" src="https://img.shields.io/badge/Dev.to-Ahmad-blue?style=flat-square&logo=dev-to"></a>
-<a href="https://stackoverflow.com/users/12132894/ahmad"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-Ahmad-blue?style=flat-square&logo=stackoverflow"></a>
-<a href="https://www.linkedin.com/in/muhammad-ahmad20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad%20Ahmad-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://dev.to/m_ahmad"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
+<a href="https://stackoverflow.com/users/12132894/ahmad"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
+<a href="https://www.linkedin.com/in/muhammad-ahmad20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:muhammad.ahmad8043@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muhammad.ahmad8043@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
