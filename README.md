@@ -21,6 +21,8 @@
 
 [![MA-Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MA-Ahmad&show_icons=true)](https://github.com/MA-Ahmad)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ma-ahmad&" alt="ahmad" /></p>
+
 [![](https://komarev.com/ghpvc/?username=MA-Ahmad&color=blue&label=Profile%20Views)](https://github.com/MA-Ahmad/MA-Ahmad)
 [![](https://img.shields.io/github/followers/MA-Ahmad?label=GitHub%20Followers)](https://github.com/MA-Ahmad)
 
@@ -28,6 +30,7 @@
 
 <p align="center">
 <a href="https://dev.to/m_ahmad"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
+<a href="https://twitter.com/muhammad_ahmaad" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a>  
 <a href="https://stackoverflow.com/users/12132894/ahmad"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
 <a href="https://www.linkedin.com/in/muhammad-ahmad20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="mailto:muhammad.ahmad8043@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muhammad.ahmad8043@gmail.com-blue?style=flat-square&logo=gmail"></a>
