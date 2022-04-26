@@ -6,7 +6,7 @@
 - 🎓 &nbsp; BS(CS) from FAST - NUCES
 - 💼 &nbsp; Working as a Software Engineer.
 - 👨‍💻 &nbsp; Checkout my work at https://mahmad.me
-- 📝 &nbsp; I regularly write articles on [Dev.to](https://dev.to/m_ahmad)
+- 📝 &nbsp; I regularly write articles on [my blog](https://mahmad.me/blog) and [Dev.to](https://dev.to/m_ahmad)
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies.
 - 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
 
