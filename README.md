@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Ruby | Python | C++ | Java
+- 💻 &nbsp; Ruby | Python
 - 🌐 &nbsp; ROR | ReactJS | Nextjs | JavaScript | TypeScript | Redux | Tailwindcss | Bootstrap | ChakraUi
 - 🛢 &nbsp; MySQL | Postgresql
 - 🖥 &nbsp; Figma | InDesign
