@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Ahmad.</h2>
+<h2> Hey there! I'm Ahmad</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
