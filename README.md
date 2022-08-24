@@ -16,7 +16,7 @@
 - 💻 &nbsp; Ruby | Python
 - 🌐 &nbsp; ROR | ReactJS | Next.js | JavaScript | TypeScript
 - 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design
-- 🛢 &nbsp; MySQL | Postgresql
+- 🛢 &nbsp; MySQL | PostgreSQL
 - 🖥 &nbsp; Figma | InDesign
 
 
