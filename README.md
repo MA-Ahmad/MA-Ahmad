@@ -1,6 +1,8 @@
 <h2> Hey there! I'm Ahmad</h2>
 
+
 <h3> 👨🏻‍💻 About Me </h3>
+
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
 - 🎓 &nbsp; BS(CS) from FAST - NUCES
