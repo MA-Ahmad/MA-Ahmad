@@ -29,6 +29,7 @@
 [![](https://img.shields.io/github/followers/MA-Ahmad?label=GitHub%20Followers)](https://github.com/MA-Ahmad)
 
 <h3> 🤝🏻 Connect with Me </h3>
+
 <p align="center">
 <a href="https://dev.to/m_ahmad"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
 <a href="https://twitter.com/muhammad_ahmaad" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a>  
@@ -38,6 +39,7 @@
 </p>
 
 <h3 align="left">Support:</h3>
+
 <p>
 <a href="https://www.buymeacoffee.com/m.ahmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Muhammad Ahmad" /></a>
 </p>
