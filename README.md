@@ -19,7 +19,6 @@
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🖥 &nbsp; Figma | InDesign
 
-
 <br/>
 
 [![MA-Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MA-Ahmad&show_icons=true)](https://github.com/MA-Ahmad)
