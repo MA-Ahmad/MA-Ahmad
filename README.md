@@ -9,7 +9,7 @@
 - 📝 &nbsp; I regularly write articles on [my blog](https://mahmad.me/blog) and [Dev.to](https://dev.to/m_ahmad)
 - 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies
 - 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
-- 🥅 &nbsp; 2022 Goals: Learn Graphql and Apollo Client
+<!-- - 🥅 &nbsp; 2023 Goals: Learn Web3, Graphql and Apollo Client -->
 
 <h3> 🛠 Tech Stack </h3>
 
