@@ -7,14 +7,14 @@
 - 💼 &nbsp; Working as a Full Stack Software Engineer at [Nalikes Studio](https://www.nalikes.com)
 - 👨‍💻 &nbsp; Checkout my work at https://mahmad.me
 - 📝 &nbsp; I regularly write articles on [my blog](https://mahmad.me/blog) and [Dev.to](https://dev.to/m_ahmad)
-- 🌱 &nbsp; Learning more about Devops, Front-end and Back-end technologies
+- 🌱 &nbsp; Learning more about DevOps, Front-end and Back-end technologies
 - 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
 <!-- - 🥅 &nbsp; 2023 Goals: Learn Web3, Graphql and Apollo Client -->
 
 <h3> 🛠 Tech Stack </h3>
 
-- 💻 &nbsp; Ruby | Python
-- 🌐 &nbsp; ROR | ReactJS | Next.js | JavaScript | TypeScript
+- 💻 &nbsp; Ruby | Python | JavaScript | TypeScript
+- 🌐 &nbsp; ROR | Reactjs | Nextjs | Nestjs
 - 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🖥 &nbsp; Figma | InDesign
