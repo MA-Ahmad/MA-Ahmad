@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 <h2> Hey there! I'm Ahmad</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
