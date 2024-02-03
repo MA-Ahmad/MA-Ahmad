@@ -16,7 +16,7 @@
 <h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Ruby | Python | JavaScript | TypeScript
-- 🌐 &nbsp; ROR | Reactjs | Nextjs | Nestjs
+- 🌐 &nbsp; ROR | Reactjs | Nextjs | Nestjs | React Query
 - 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🖥 &nbsp; Figma | InDesign
