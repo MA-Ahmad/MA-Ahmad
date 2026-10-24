@@ -1,48 +1,12 @@
-<h2> Hey there! I'm Ahmad</h2>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 🎓 &nbsp; BS(CS) from FAST - NUCES
-- 💼 &nbsp; Working as a Full Stack Software Engineer at [Nalikes Studio](https://www.nalikes.com)
-- 👨‍💻 &nbsp; Checkout my work at https://mahmad.me
-- 📝 &nbsp; I regularly write articles on [my blog](https://mahmad.me/blog) and [Dev.to](https://dev.to/m_ahmad)
-- 🌱 &nbsp; Learning more about DevOps, Front-end and Back-end technologies
-- 📫 &nbsp; How to reach me: muhammad.ahmad8043@gmail.com
-<!-- - 🥅 &nbsp; 2023 Goals: Learn Web3, Graphql and Apollo Client -->
-
-<h3> 🛠 Tech Stack </h3>
-
-- 💻 &nbsp; Ruby | Python | JavaScript | TypeScript
-- 🌐 &nbsp; ROR | Reactjs | Nextjs | Nestjs | React Query
-- 💈 &nbsp; TailwindCSS | ChakraUI | Bootstrap | Ant Design
-- 🛢 &nbsp; MySQL | PostgreSQL
-- 🖥 &nbsp; Figma | InDesign
-
-<br/>
-
-<!-- [![MA-Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MA-Ahmad&show_icons=true)](https://github.com/MA-Ahmad) -->
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ma-ahmad&" alt="ahmad" /></p> -->
+<a href="https://mahmad.me">
+  <img src="https://raw.githubusercontent.com/MA-Ahmad/myPortfolio/main/public/og.png" alt="Muhammad Ahmad, mahmad.me" width="100%" />
+</a>
 
 
-[![](https://komarev.com/ghpvc/?username=MA-Ahmad&color=blue&label=Profile%20Views)](https://github.com/MA-Ahmad/MA-Ahmad)
+## Hey, I'm Ahmad 👋
 
-<h3> 🤝🏻 Connect with Me </h3>
+Full stack engineer who builds web products end to end. Open source lover.
 
-<p align="center">
-<a href="https://twitter.com/muhammad_ahmaad" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a>  
-<a href="https://dev.to/m_ahmad"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="https://stackoverflow.com/users/12132894/ahmad"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stackoverflow-gray?style=flat-square&logo=stackoverflow"></a>
-<a href="https://www.linkedin.com/in/muhammad-ahmad20/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
-<a href="mailto:muhammad.ahmad8043@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-muhammad.ahmad8043@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+## Links
 
-
-<!--
-<h3 align="left">Support:</h3>
-
-<p>
-<a href="https://www.buymeacoffee.com/m.ahmad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="180" alt="Muhammad Ahmad" /></a>
-</p>
--->
+[Portfolio](https://mahmad.me) · [Dev.to](https://dev.to/m_ahmad) · [Twitter](https://twitter.com/muhammad_ahmaad) · [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad20/) · [Stack Overflow](https://stackoverflow.com/users/12132894/ahmad) · [Email](mailto:muhammad.ahmad8043@gmail.com)
