@@ -1,5 +1,5 @@
 <a href="https://mahmad.me">
-  <img src="https://raw.githubusercontent.com/MA-Ahmad/myPortfolio/main/public/og.png" alt="Muhammad Ahmad, mahmad.me" width="100%" />
+  <img src="https://raw.githubusercontent.com/MA-Ahmad/myPortfolio/main/.github/screenshots/profile-banner.png" alt="Muhammad Ahmad, mahmad.me" />
 </a>
 
 
